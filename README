@@ -1,4 +1,5 @@
 # Vue Js
+
 Visit https://vuejs.org/guide/ for more information on vue.
 
 ### what is vue js?
@@ -8,15 +9,30 @@ A JavaScript framework for building user interfaces.
 It builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps you efficiently develop user interfaces of any complexity.
 
 #### core features of Vue
+
 1. Declarative Rendering - extends standard HTML with a template syntax that allows us to declaratively describe HTML output based on JavaScript state
 2. Reactivity - automatically tracks JavaScript state changes and efficiently updates the DOM when changes happen.
 
 ## The Progressive framework
+
 Vue is designed to be flexible and incrementally adoptable
+
 #### uses of vue
+
 - Enhancing static HTML without a build step
 - Embedding as Web Components on any page
 - Single-Page Application (SPA)
 - Fullstack / Server-Side Rendering (SSR)
 - Jamstack / Static Site Generation (SSG)
 - Targeting desktop, mobile, WebGL, and even the terminal
+
+components
+text-interpolation
+
+## create vue app
+
+    npm create vue@latest
+
+## run app
+
+    npm run dev

@@ -13,6 +13,7 @@ import GreetingWorld from './GreetingWorld.vue'
   <p>parent component for GreetingWorld</p>
   <GreetingWorld />
 </template>
+<!-- html end -->
 
 <!-- css -->
 <style scoped>
