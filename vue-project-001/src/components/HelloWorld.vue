@@ -11,6 +11,8 @@ import GreetingWorld from './GreetingWorld.vue'
 <template>
   <h1>Hello World. Vue3</h1>
   <p>parent component for GreetingWorld</p>
+
+  <!-- nested component -->
   <GreetingWorld />
 </template>
 <!-- html end -->

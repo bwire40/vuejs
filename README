@@ -36,3 +36,13 @@ text-interpolation
 ## run app
 
     npm run dev
+
+## components
+
+-
+
+## text interpolation
+
+- data is decalred in the <script> tags
+
+  {{data}}
